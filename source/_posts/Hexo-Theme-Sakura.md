@@ -17,7 +17,7 @@ photos: https://static.2heng.xin/wp-content/uploads//2019/02/wallhaven-672007-1-
 ---
 hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-sakura/blob/master/README.md)
 
-基于WordPress主题[Sakura](https://github.com/mashirozx/Sakura/)修改成Hexo的主题。
+基于WordPress主题[Sakura](https://github.com/mashirozx/Sakura/)修改成Hexo的主题。.
 
 [demo预览](https://sakura.hojun.cn)
 
