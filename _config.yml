@@ -79,19 +79,14 @@ theme: Sakura
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-    # github: git@github.com:honjun/honjun.github.io.git
-    github: https://github.com/mysteve/mysteve.github.io.git
-    # coding: https://github.com/mysteve/mysteve.github.io.git
+  repo: https://github.com/mysteve/mysteve.github.io.git
   branch: master
 
 # backup
 backup:
   type: git
   message: backup my blog of https://github.com/mysteve/mysteve.github.io
-  repository:
-    github: https://github.com/mysteve/mysteve.github.io.git.git,backup
-    # coding: https://github.com/mysteve/mysteve.github.io.git,backup
+  repository: https://github.com/mysteve/mysteve.github.io.git,backup
 
 #RSS
 feed:
