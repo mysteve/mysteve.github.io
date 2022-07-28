@@ -81,8 +81,8 @@ deploy:
   type: git
   repo: 
     # github: git@github.com:honjun/honjun.github.io.git
-    # github: https://github.com/mysteve/mysteve.github.io.git.git
-    coding: https://github.com/mysteve/mysteve.github.io.git
+    github: https://github.com/mysteve/mysteve.github.io.git.git
+    # coding: https://github.com/mysteve/mysteve.github.io.git
   branch: master
 
 # backup
@@ -90,8 +90,8 @@ backup:
   type: git
   message: backup my blog of https://github.com/mysteve/mysteve.github.io
   repository:
-    # github: https://github.com/mysteve/mysteve.github.io.git.git,backup
-    coding: https://github.com/mysteve/mysteve.github.io.git,backup
+    github: https://github.com/mysteve/mysteve.github.io.git.git,backup
+    # coding: https://github.com/mysteve/mysteve.github.io.git,backup
 
 #RSS
 feed:
