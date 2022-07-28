@@ -81,7 +81,7 @@ deploy:
   type: git
   repo: 
     # github: git@github.com:honjun/honjun.github.io.git
-    github: https://github.com/mysteve/mysteve.github.io.git.git
+    github: https://github.com/mysteve/mysteve.github.io.git
     # coding: https://github.com/mysteve/mysteve.github.io.git
   branch: master
 
